@@ -1,0 +1,12 @@
+C:\Users\Matthew Frost\Desktop\Programing\c#\Word\WordAddIn1\WordAddIn1\bin\Debug\WordAddIn1.dll
+C:\Users\Matthew Frost\Desktop\Programing\c#\Word\WordAddIn1\WordAddIn1\bin\Debug\WordAddIn1.pdb
+C:\Users\Matthew Frost\Desktop\Programing\c#\Word\WordAddIn1\WordAddIn1\bin\Debug\WordAddIn1.dll.manifest
+C:\Users\Matthew Frost\Desktop\Programing\c#\Word\WordAddIn1\WordAddIn1\bin\Debug\WordAddIn1.vsto
+C:\Users\Matthew Frost\Desktop\Programing\c#\Word\WordAddIn1\WordAddIn1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Matthew Frost\Desktop\Programing\c#\Word\WordAddIn1\WordAddIn1\obj\Debug\WordAddIn1.csprojAssemblyReference.cache
+C:\Users\Matthew Frost\Desktop\Programing\c#\Word\WordAddIn1\WordAddIn1\obj\Debug\WordAddIn1.Properties.Resources.resources
+C:\Users\Matthew Frost\Desktop\Programing\c#\Word\WordAddIn1\WordAddIn1\obj\Debug\WordAddIn1.csproj.GenerateResource.cache
+C:\Users\Matthew Frost\Desktop\Programing\c#\Word\WordAddIn1\WordAddIn1\obj\Debug\WordAddIn1.csproj.CoreCompileInputs.cache
+C:\Users\Matthew Frost\Desktop\Programing\c#\Word\WordAddIn1\WordAddIn1\obj\Debug\WordAddIn1.csproj.CopyComplete
+C:\Users\Matthew Frost\Desktop\Programing\c#\Word\WordAddIn1\WordAddIn1\obj\Debug\WordAddIn1.dll
+C:\Users\Matthew Frost\Desktop\Programing\c#\Word\WordAddIn1\WordAddIn1\obj\Debug\WordAddIn1.pdb
